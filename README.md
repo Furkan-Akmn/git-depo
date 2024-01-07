@@ -1,0 +1,2 @@
+# git-depo
+general storage
